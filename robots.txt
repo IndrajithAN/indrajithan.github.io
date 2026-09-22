@@ -1,0 +1,25 @@
+User-Agent: *
+Allow: /
+
+User-Agent: Googlebot
+User-Agent: Googlebot-Image
+User-Agent: Bingbot
+User-Agent: Slurp
+User-Agent: DuckDuckBot
+Allow: /
+
+User-Agent: GPTBot
+User-Agent: ChatGPT-User
+User-Agent: PerplexityBot
+User-Agent: ClaudeBot
+User-Agent: Claude-Web
+User-Agent: Google-Extended
+User-Agent: cohere-ai
+User-Agent: CCBot
+User-Agent: Bytespider
+User-Agent: Applebot-Extended
+User-Agent: Meta-ExternalAgent
+Allow: /
+
+Host: https://indrajithan.github.io
+Sitemap: https://indrajithan.github.io/sitemap.xml

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[4221,["345","static/chunks/app/not-found-569fba71f9cd73e3.js"],""]
+3:I[8105,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"indra-not-found","children":[["$","strong",null,{"children":"404"}],["$","h1",null,{"children":"This route is outside the attack surface."}],["$","$L2",null,{"href":"/","children":"Return to the portfolio ↗"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"XOW7mkly7wrAkHT8kcwGh"}
+5:null

@@ -1,0 +1,18 @@
+# Professional profile: Indrajith A N
+
+Indrajith A N, also known as IntruderX, is a security researcher and Senior Offensive Security Engineer at PricewaterhouseCoopers LLP in Bengaluru, India. His supplied resume documents more than nine years of professional experience.
+
+His assessment work covers web applications, Android and iOS mobile applications, REST, SOAP and GraphQL services, internal and external networks, cloud workloads, and AI/LLM applications including prompt injection, RAG pipelines, unsafe tool use and agentic workflows. His responsibilities include defining test scenarios, producing evidence for confirmed vulnerabilities, communicating risk to stakeholders and coordinating remediation with development teams.
+
+Independent vulnerability research has resulted in recognition from more than 80 organizations. The supplied evidence archive includes acknowledgements or rewards from Google, Microsoft, Apple, Oracle, Sony, BlackBerry, AT&T, ESET, AVG, Paytm, PagerDuty, Intercom, MediaFire, Algolia, DNSimple, Cloud9 and others.
+
+Indrajith is credited with seven Cisco data-center CVEs: CVE-2017-12343, CVE-2017-12344, CVE-2017-12345, CVE-2017-12346, CVE-2017-12347, CVE-2017-12348 and CVE-2017-12349.
+
+His documented achievements include a global rank of #2 in a Vulnerability Reward & Research Program among more than 1,000 researchers across more than 100 countries. His supplied resume also documents a third-place finish among more than 90 researchers at a GISEC Global live-hacking event in Dubai, a top-50 Intigriti ranking during 2021 and a top-90 Bugcrowd ranking from 18,200 researchers during 2018.
+
+He holds a Master of Computer Applications from Amrita University and a Bachelor of Computer Applications from JSS University.
+
+Contact: indu.an444@gmail.com
+LinkedIn: https://www.linkedin.com/in/indrajithan/
+Yogosha: https://app.yogosha.com/r/Intruderx
+X: https://x.com/intruderhex
