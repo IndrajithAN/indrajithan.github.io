@@ -1,6 +1,6 @@
 # Indrajith A N / IntruderX
 
-Indrajith A N is a Senior Offensive Security Engineer based in Bengaluru, India, with more than nine years of experience in offensive security.
+Indrajith A N is a Senior Offensive Security Engineer based in Bengaluru, India, with 10 years of experience in offensive security.
 
 ## Core expertise
 
@@ -13,7 +13,7 @@ Indrajith A N is a Senior Offensive Security Engineer based in Bengaluru, India,
 
 ## Selected evidence
 
-- Ranked second globally in a Vulnerability Reward & Research Program among 1,000+ researchers across 100+ countries
+- Ranked third globally (all-time) on the [Yogosha – all-time global leaderboard](https://app.yogosha.com/r/Intruderx) among 1,000+ researchers across 100+ countries
 - Recognized or rewarded by more than 80 organizations, including Google, Microsoft, Apple and Oracle
 - Seven published Cisco CVEs: CVE-2017-12343 through CVE-2017-12349
 - Third place among more than 90 researchers at a GISEC Global live-hacking event in Dubai
